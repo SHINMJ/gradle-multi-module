@@ -1,0 +1,5 @@
+rootProject.name = 'msa-sample'
+include 'module-common'
+include 'module-user'
+include 'module-board'
+
